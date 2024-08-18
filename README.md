@@ -9,23 +9,18 @@
 
 Before using this addon, ensure you have the following:
 
-- **Minecraft Modpack**: AllTheMods 10 for 1.21.1
+- **Minecraft Modpack**: ATM 10
+- - **AllTheModium Mod**: For items used in recipes
+- - **Just Dire Things Mod**: For items used in recipes
 - **Mod Loader**: Neoforge
 - **Entangled Mod**: Can be installed from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entangled)
-- **AllTheModium Mod**: For items used in recipes
-- **Just Dire Things Mod**: For items used in recipes
+
 
 ## 🚀 How to Install
 
-1. **Clone this repository** or simply copy the content:
-   ```bash
-   git clone https://github.com/verenacv/EntangledIntegration.git
-   cd EntangledIntegration
-   ```
-
-2. **Download the Entangled Mod from CurseForge**
-3. **Copy the kubejs/ folder into your AllTheMods 10 directory or ATM10 server**
-
+1. Clone this **repository** or simply download the content
+2. Download the **Entangled Mod** from CurseForge
+3. Copy the **kubejs/** and **config/** folder into your ATM10 10 directory or server
 4. **Start your Game and Have Fun!**
 
 ## 🎞️ Preview
