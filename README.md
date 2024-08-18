@@ -28,7 +28,18 @@ Before using this addon, ensure you have the following:
 
 4. **Start your Game and Have Fun!**
 
+## 🎞️ Preview
+
+<p align="center">
+  <img src="https://i.imgur.com/mM9fWjZ.png" alt="EntangledIntegration Preview 1" width="300" />
+  <img src="https://i.imgur.com/G9zjksF.png" alt="EntangledIntegration Preview 2" width="300" />
+</p>
+
 ______________________
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/W7W1Q1E53"> <img align="left" src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="verenacv" /></a></p><br><br>
+<p align="left">
+  <a href="https://ko-fi.com/W7W1Q1E53">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="Support on Ko-fi" />
+  </a>
+</p>
