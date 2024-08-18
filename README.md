@@ -24,7 +24,7 @@ Before using this addon, ensure you have the following:
    ```
 
 2. **Download the Entangled Mod from CurseForge**
-3. **Copy the kubejs/ folder into your AllTheMods 10 directory**
+3. **Copy the kubejs/ folder into your AllTheMods 10 directory or ATM10 server**
 
 4. **Start your Game and Have Fun!**
 
